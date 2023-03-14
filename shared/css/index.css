@@ -1,0 +1,978 @@
+header {
+    background: url(../img/index/kv-d1_sp.png) no-repeat center top / 100% auto;
+}
+
+header h2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+header .inner p.btn {
+    position: absolute;
+    top: 94vw;
+    left: 3%;
+    width: 40%;
+    z-index: 3;
+}
+
+header .inner .col {
+    margin-top: -3vw;
+}
+
+header dl {
+    background: url(../img/index/kv-linel.png) repeat-y left top / auto 100%, url(../img/index/kv-liner.png) repeat-y right top / auto 100%;
+    width: 71%;
+    margin: 0 auto;
+    padding: 3vw 9%;
+    box-sizing: border-box;
+}
+
+header dt {
+    font-size: 8vw;
+}
+
+header dd {
+    font-size: 5.5vw;
+    text-align: right;
+    line-height: 1.3;
+}
+
+header dd span span {
+    font-size: 7vw;
+}
+
+header .col p.txt-sub {
+    font-size: 14px;
+    text-align: center;
+    padding-left: 16vw;
+    box-sizing: border-box;
+}
+
+header .col p.txt {
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    margin-top: 4vw;
+}
+
+#sec1 .flbox {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6vw;
+}
+
+#sec1 .flbox p.btn {
+    width: 50%;
+}
+
+#sec1 .flbox h2 {
+    width: 40%;
+}
+
+#sec1 .wrap {
+    padding: 0 5%;
+}
+
+#sec1 .inner {
+    padding: 8vw 3%;
+    box-sizing: border-box;
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+}
+
+#sec1 .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4vw;
+}
+
+#sec1 p.rss_img {
+    width: 38%;
+    height: 22vw;
+}
+
+#sec1 p.rss_img a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#sec1 p.rss_img span {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#sec1 dl {
+    width: 58%;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-weight: 500 !important;
+    letter-spacing: 0 !important;
+}
+
+#sec1 dt {
+    font-size: 3.5vw;
+}
+
+#sec1 dd {
+    font-size: 4vw;
+}
+
+#sec1 dd a {
+    text-decoration: underline;
+}
+
+#sec1 .box .gr {
+    display: flex;
+    justify-content: center;
+    width: 61%;
+    margin: 9vw auto 5vw;
+}
+
+#sec2 {
+    padding: 12vw 0 17vw;
+    background: url(../img/index/s2-d2_sp.jpg) no-repeat center bottom / 100% auto, url(../img/index/s2-d1_sp.png) no-repeat center top / 100% auto;
+}
+
+#sec2 .wrap {
+    padding: 0;
+}
+
+#sec2 h2 {
+    width: 27%;
+    position: absolute;
+    top: 0;
+    left: 3%;
+    z-index: 1;
+}
+
+#sec2 .row-1 p.img {
+    width: 80%;
+    margin: 28vw 0 0 auto;
+    padding-top: 0;
+    position: relative;
+}
+
+#sec2 .row-1 .ani {
+    text-align: right;
+}
+
+#sec2 .row-1 .ani p.catch {
+    position: absolute;
+    top: 17vw;
+    right: 9vw;
+    z-index: 3;
+    width: 62%;
+}
+
+#sec2 .row-1 p.txt {
+    padding: 14vw 3% 0;
+    box-sizing: border-box;
+}
+
+#sec2 .row-2 p.img1 {
+    margin: 0 0 0 -7vw;
+    width: 75%;
+    position: relative;
+    z-index: 1;
+}
+
+#sec2 .row-2 p.img2 {
+    margin: -13vw 3% 0 28vw;
+    width: 73%;
+}
+
+#sec2 .row-2 p.img3 {
+    width: 55%;
+    margin: 6vw 0 0;
+}
+
+#sec2 .row-2 h3 {
+    width: 70%;
+    margin: 6vw 3% 5vw auto;
+}
+
+#sec2 .row-2 p.txt {
+    padding: 0 3%;
+    box-sizing: border-box;
+}
+
+#sec2 .row-2 p.btn {
+    width: 94%;
+    margin: 9vw auto 0;
+}
+
+#sec3 {
+    margin: 15vw 0;
+    padding-right: 3%;
+    box-sizing: border-box;
+}
+
+#sec3 p.bnr:first-child {
+    margin-bottom: 6vw;
+}
+
+#sec4 {
+    background: url(../img/index/s4-bg_sp.jpg) no-repeat center center / cover;
+    padding: 15vw 0 15vw;
+}
+
+#sec4 p.floormap {
+    padding: 0 3%;
+}
+
+#sec4 h2 {
+    width: 52%;
+    margin: 9vw auto 0;
+}
+
+#sec5 {
+    padding: 15vw 0 15vw;
+    background: url(../img/index/s5-d1_sp.png) no-repeat center top / 100% auto;
+}
+
+#sec5 h2 {
+    width: 47%;
+    margin: 0 auto 9vw;
+}
+
+#sec5 dl {
+    padding: 10px 5px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #babab8;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    font-weight: 500 !important;
+    letter-spacing: 0.1em !important;
+    line-height: 1.7;
+}
+
+#sec5 dd.tel span.cl1 {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    line-height: 1;
+}
+
+#sec5 dd.tel span.txt-sub {
+    font-size: 13px;
+    letter-spacing: 0;
+}
+
+#sec5 p.img {
+    width: 74%;
+    margin: 13vw 0 0 13%;
+}
+
+#sec5 .inner {
+    padding: 0 6%;
+    margin-top: 12vw;
+}
+
+#sec5 iframe {
+    width: 100%;
+    height: 480px;
+}
+
+#sec5 .flbox {
+    margin-top: 6vw;
+}
+
+#sec5 p.btn1 {
+    margin-bottom: 6vw;
+}
+
+#sec5 p.btn1 span.pc {
+    display: none !important;
+}
+
+#sec5 p.btn1 span.sp {
+    display: inline !important;
+}
+
+#sec5 p.btn3 {
+    display: none;
+}
+
+#sec5 p.btn2 {
+    display: block;
+    background: url(../img/shared/btn-bg_sp.jpg) no-repeat center center / 100% 100%;
+    width: 96%;
+    margin: 0 auto;
+    font-weight: bold;
+    font-family: 'Noto Sans JP', sans-serif;
+    letter-spacing: 0.05em;
+    color: #fff;
+    padding: 3vw 0 3vw 25vw;
+    font-size: 4.5vw;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#sec5 p.btn2::before {
+    content: '';
+    position: absolute;
+    top: 51%;
+    transform: translateY(-50%);
+    right: 23vw;
+    background: url(../img/shared/btn-arr.png) no-repeat center center / 100% auto;
+    width: 5vw;
+    height: 5vw;
+}
+
+#sec5 p.btn2.copied {
+    pointer-events: none;
+    opacity: 1;
+}
+
+#sec6 {
+    background: url(../img/shared/bg1.jpg);
+    padding: 12vw 0 12vw;
+}
+
+#sec6 .box {
+    background: #f7f7f5;
+}
+
+#sec6 .row-1 .box {
+    padding: 3vw 0 9vw;
+    right: -4%;
+}
+
+#sec6 p.txt {
+    text-align: center;
+}
+
+#sec6 h2 {
+    font-size: 10vw;
+    font-weight: 700;
+    text-align: right;
+    padding-right: 4%;
+    margin-bottom: 6vw;
+    box-sizing: border-box;
+    letter-spacing: 0.05em;
+}
+
+#sec6 h2 small {
+    display: block;
+    line-height: 1;
+    font-size: 6.5vw;
+    letter-spacing: 0.05em;
+    margin-top: -2vw;
+}
+
+#sec6 p.img1 {
+    position: absolute;
+    top: -4vw;
+    left: 0;
+    width: 45%;
+}
+
+#sec6 .row-2 .box {
+    padding: 4vw 0% 20vw 12%;
+    box-sizing: border-box;
+    margin: -1vw 0 0 -7%;
+}
+
+#sec6 .row-2 h4 {
+    text-align: center;
+    font-size: 6vw;
+    letter-spacing: 0.05em;
+}
+
+#sec6 p.ttl {
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+#sec6 dl:first-child {
+    padding-top: 0;
+}
+
+#sec6 dl {
+    display: flex;
+    font-weight: 500 !important;
+    letter-spacing: 0 !important;
+    font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+    padding: 5px 0;
+    font-size: 14px;
+}
+
+#sec6 dt {
+    width: 23%;
+}
+
+#sec6 dd {
+    width: 77%;
+}
+
+#sec6 p.tel {
+    border-top: 1px solid #babab8;
+    border-bottom: 1px solid #babab8;
+    padding: 3vw 0;
+    text-align: center;
+    margin: 5vw 0 0 -4vw;
+    width: 100%;
+}
+
+#sec6 p.tel span.cl1 {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    line-height: 1;
+}
+
+#sec6 p.tel span.cl2 {
+    font-size: 12.5px;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+#sec6 p.img2 {
+    width: 61%;
+    margin: -11vw 0 0 37vw;
+}
+
+#sec6 h3.ttl {
+    position: absolute;
+    bottom: 8vw;
+    left: 0;
+    z-index: 1;
+    width: 70%;
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        background: url(../img/index/kv-d1.png) no-repeat center top;
+    }
+    header p.img {
+        margin-left: -250px;
+    }
+    header h2 {
+        top: 200px;
+        right: 217px;
+    }
+    header .inner p.btn {
+        top: inherit;
+        bottom: 79px;
+        left: 441px;
+        width: auto;
+    }
+    header .inner .col {
+        margin-top: 0;
+        position: absolute;
+        top: 553px;
+        right: -206px;
+        width: 413px;
+    }
+    header dt {
+        font-size: 49px;
+        margin-bottom: 19px;
+    }
+    header dd {
+        font-size: 39px;
+        line-height: 58px;
+    }
+    header dd span span {
+        font-size: 49px;
+    }
+    header dl {
+        width: 100%;
+        padding: 23px 41px 5px;
+    }
+    header .col p.txt-sub {
+        font-size: 16px;
+        text-align: right;
+        padding: 4px 30px 0 0;
+    }
+    header .col p.txt {
+        text-align: left;
+        letter-spacing: 0.1em;
+        margin-top: 26px;
+    }
+    #sec1 {
+        margin-top: 0;
+    }
+    #sec1 .flbox h2 {
+        width: auto;
+    }
+    #sec1 .flbox p.btn {
+        width: auto;
+    }
+    #sec1 .flbox {
+        margin-bottom: 50px;
+        width: 357px;
+        justify-content: space-between;
+        position: relative;
+        z-index: 1;
+    }
+    #sec1 .inner {
+        padding: 55px 14px 41px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        border-top: 8px solid #000;
+        border-bottom: 8px solid #000;
+    }
+    #sec1 #feed {
+        width: 557px;
+        display: flex;
+        justify-content: space-between;
+    }
+    #sec1 .row {
+        display: block;
+        width: 250px;
+        margin: 0;
+    }
+    #sec1 .box {
+        position: absolute;
+        top: 80px;
+        left: 14px;
+        width: 357px;
+    }
+    #sec1 p.rss_img {
+        width: 250px;
+        height: 170px;
+        transition: all .3s ease;
+    }
+    #sec1 p.rss_img:hover {
+        opacity: .8;
+    }
+    #sec1 dl {
+        width: 100%;
+        text-align: center;
+    }
+    #sec1 dt {
+        font-size: 16px;
+        letter-spacing: 0;
+        margin: 19px 0 -11px;
+    }
+    #sec1 dd {
+        font-size: 19px;
+        letter-spacing: 0;
+        line-height: 50px;
+    }
+    #sec1 dd a:hover {
+        opacity: 1;
+        text-decoration: none;
+    }
+    #sec1 .wrap {
+        padding: 0;
+    }
+    #sec1 .box .gr {
+        width: auto;
+        margin: 64px 0 32px;
+    }
+    #sec2 {
+        padding: 191px 0 0;
+        background: transparent;
+    }
+    #sec2::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: calc(50% + 385px);
+        height: 1162px;
+        background: url(../img/index/s2-d1.png) no-repeat top right / cover;
+    }
+    #sec2 h2 {
+        width: auto;
+        top: -38px;
+        left: 26px;
+        z-index: 2;
+    }
+    #sec2 .row-1 p.img {
+        width: auto;
+        margin: 0 0 0 -103px;
+        padding-top: 0;
+        position: relative;
+    }
+    #sec2 .row-1 .box {
+        width: 520px;
+        margin-left: auto;
+    }
+    #sec2 .row-1 p.txt {
+        padding: 29px 0 0;
+    }
+    #sec2 .row-2 p.img1 {
+        margin: 60px 0 0 -117px;
+        width: auto;
+    }
+    #sec2 .row-2 p.img2 {
+        margin: 0;
+        width: auto;
+        position: absolute;
+        top: 0;
+        right: -198px;
+    }
+    #sec2 .row-1 .ani p.catch {
+        top: -62px;
+        right: 188px;
+        width: auto;
+    }
+    #sec2 p.deco {
+        position: absolute;
+        bottom: -403px;
+        right: 0;
+        width: calc(50% + 404px);
+        height: 1500px;
+        background: url(../img/shared/bg1.jpg);
+        z-index: -1;
+        overflow: hidden;
+    }
+    #sec2 p.deco::before {
+        content: '';
+        position: absolute;
+        bottom: 292px;
+        right: 0;
+        width: calc(100% - 404px);
+        height: 900px;
+        background: url(../img/index/s2-d2.png) no-repeat left top / cover;
+    }
+    #sec2 p.deco::after {
+        content: '';
+        width: 300%;
+        height: 933px;
+        background: url(../img/shared/bg.jpg);
+        position: absolute;
+        top: -411px;
+        left: -100%;
+        transform: rotate(-24deg);
+    }
+    #sec2 .row-2 p.img3 {
+        width: auto;
+        margin: -73px 0 0 -116px;
+    }
+    #sec2 .row-2 .box {
+        width: 564px;
+        margin: 66px 0 0 auto;
+    }
+    #sec2 .row-2 h3 {
+        width: auto;
+        margin: 0 0 25px;
+    }
+    #sec2 .row-2 p.txt {
+        padding: 0;
+    }
+    #sec2 .row-2 p.btn {
+        width: 459px;
+        margin: 35px 5px 0 auto;
+    }
+    #sec3 {
+        margin: 113px 0 123px;
+        box-sizing: border-box;
+        padding: 0 24px;
+    }
+    #sec3 .inner {
+        width: 100%;
+        max-width: 1300px;
+        margin: 0 auto;
+    }
+    #sec3 p.bnr:first-child {
+        margin-bottom: 40px;
+    }
+    #sec3 p.bnr img {
+        width: 100%;
+        height: auto;
+    }
+    #sec4 {
+        background: url(../img/index/s4-bg.jpg) no-repeat center center / cover;
+        padding: 153px 0 153px;
+    }
+    #sec4 h2 {
+        width: auto;
+        margin: 0 0 0 18px;
+    }
+    #sec4 p.floormap {
+        padding: 0;
+        position: absolute;
+        top: 42px;
+        right: 27px;
+    }
+    #sec5 {
+        padding: 150px 0 90px;
+        background: url(../img/index/s5-d1.png) no-repeat center top;
+    }
+    #sec5 h2 {
+        width: auto;
+        margin: 0 0 16px;
+        text-align: center;
+    }
+    #sec5 .col-1 {
+        width: 414px;
+        margin-right: 0;
+    }
+    #sec5 .col-2 {
+        width: 565px;
+    }
+    #sec5 dl {
+        padding: 11px 9px;
+        line-height: 22px;
+        font-size: 16px;
+    }
+    #sec5 dd.tel span.cl1 {
+        font-size: 20px;
+    }
+    #sec5 dd.tel span.txt-sub {
+        font-size: 14px;
+    }
+    #sec5 p.img {
+        width: auto;
+        margin: 0;
+        position: absolute;
+        top: 416px;
+        left: 0;
+    }
+    #sec5 .inner {
+        padding: 0 50px;
+        margin-top: 96px;
+    }
+    #sec5 .flbox.fl1 {
+        margin-top: 0;
+        justify-content: space-between;
+    }
+    #sec5 .flbox.fl2 {
+        margin: 40px auto 0;
+        align-items: flex-start;
+        width: 819px;
+        justify-content: space-around;
+    }
+    #sec5 p.btn2 {
+        background: url(../img/shared/btn-bg.jpg) no-repeat center center / 100% 100%;
+        width: 360px;
+        padding: 25px 0 25px 76px;
+        font-size: 25px;
+        transition: all .3s ease;
+        margin: 0;
+    }
+    #sec5 p.btn2:hover {
+        opacity: .8;
+    }
+    #sec5 p.btn2::before {
+        top: 51%;
+        right: 56px;
+        background: url(../img/shared/btn-arr.png) no-repeat center center / 100% auto;
+        width: 28px;
+        height: 24px;
+    }
+    #sec5 p.btn3 {
+        display: block;
+        text-align: center;
+        margin-top: 7px;
+    }
+    #sec5 p.btn3 a {
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        text-decoration: underline;
+    }
+    #sec5 p.btn3 a:hover {
+        text-decoration: none;
+        opacity: 1;
+    }
+    #sec5 p.btn1 {
+        margin-bottom: 0;
+        width: 360px;
+    }
+    #sec5 dd span.cl {
+        white-space: nowrap;
+    }
+    #sec5 iframe {
+        width: 100%;
+        height: 600px;
+    }
+    #sec5 p.btn1 a span::before {
+        right: -28px;
+    }
+    #sec5 p.btn1 span.pc {
+        display: inline !important;
+    }
+    #sec5 p.btn1 span.sp {
+        display: none !important;
+    }
+    #sec6 {
+        padding: 100px 0 99px;
+    }
+    #sec6 h2 {
+        font-size: 62px;
+        padding-right: 0;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    #sec6 h2 small {
+        font-size: 39px;
+        margin-top: 34px;
+    }
+    #sec6 .box {
+        z-index: 1;
+    }
+    #sec6 .row-1 .box {
+        padding: 103px 0 95px;
+        right: 0;
+        width: 904px;
+        margin: 0 0 0 250px;
+    }
+    #sec6 p.img1 {
+        top: -38px;
+        left: -136px;
+        width: auto;
+        z-index: 2;
+    }
+    #sec6 .row-2 h4 {
+        font-size: 28.96px;
+        margin-bottom: 22px;
+    }
+    #sec6 .row-2 .box {
+        padding: 81px 63px 88px;
+        margin: -35px 0 0;
+        width: 505px;
+    }
+    #sec6 dt {
+        width: 30%;
+    }
+    #sec6 dd {
+        width: 74%;
+    }
+    #sec6 dl {
+        letter-spacing: 0.1em !important;
+        padding: 5px 0;
+        font-size: 15.98px;
+    }
+    #sec6 p.tel {
+        padding: 9px 0;
+        margin: 20px 0 0 -11px;
+        width: 399px;
+    }
+    #sec6 p.tel span.cl2 {
+        font-size: 14px;
+        letter-spacing: 0.05em;
+    }
+    #sec6 p.tel span.cl1 {
+        font-size: 20px;
+        margin: -1px 0 -3px;
+    }
+    #sec6 p.img2 {
+        width: auto;
+        margin: 0;
+        position: absolute;
+        top: 83px;
+        right: -123px;
+        z-index: 2;
+    }
+    #sec6 h3.ttl {
+        top: -138px;
+        bottom: inherit;
+        left: 0;
+        width: auto;
+        z-index: 2;
+    }
+    #sec6 .row-1 .box::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 300%;
+        height: 100%;
+        background: #f7f7f5;
+        z-index: -1;
+    }
+    #sec6 .row-2 .box::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: -245px;
+        width: 300%;
+        height: 100%;
+        background: #f7f7f5;
+        z-index: -1;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1450px) {
+    header p.img {
+        margin-left: -222px;
+        width: 1300px;
+        padding-top: 82px;
+    }
+    header p.img img,
+    header h2 img {
+        width: 100%;
+        height: auto;
+    }
+    header .inner .col {
+        right: -130px;
+    }
+    header h2 {
+        top: 289px;
+        right: 336px;
+        width: 425px;
+    }
+    header .inner p.btn {
+        left: 340px;
+        bottom: 51px;
+    }
+    #sec1 {
+        margin-top: 60px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1250px) {
+    header .inner .col {
+        right: -39px;
+        width: 375px;
+        top: 490px;
+    }
+    header dt {
+        font-size: 40px;
+        margin-bottom: 14px;
+    }
+    header dd {
+        font-size: 30px;
+        line-height: 47px;
+    }
+    header dd span span {
+        font-size: 40px;
+    }
+    header .col p.txt {
+        letter-spacing: 0;
+    }
+    header p.img {
+        margin-left: -88px;
+        width: 1068px;
+    }
+    header h2 {
+        top: 265px;
+        right: 364px;
+        width: 376px;
+    }
+    /* 
+header .inner p.btn {
+  left: 340px;
+  bottom: 42px;
+  width: 189px;
+}
+header .inner p.btn img{
+  width: 100%;
+  height: auto;
+} 
+*/
+    header .inner p.btn {
+        top: inherit;
+        bottom: -67px;
+        left: 309px;
+        width: auto;
+    }
+    #sec1 {
+        margin-top: 180px;
+    }
+}
+
+@media all and (-ms-high-contrast:none) {
+    #sec5 p.btn2 {
+        transition: all .3s ease;
+    }
+    #sec5 p.btn2:hover {
+        opacity: .8 !important;
+    }
+}
